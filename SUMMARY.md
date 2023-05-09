@@ -8,6 +8,7 @@
     * [Criar conta](user-stories/pacientes/criar-conta.md)
     * [Acessar conta](user-stories/pacientes/acessar-conta.md)
     * [Recuperar acesso](user-stories/pacientes/recuperar-acesso.md)
+    * [Nova Consulta](user-stories/pacientes/nova-consulta.md)
   * [Profissional](user-stories/profissional.md)
   * [Administrativo](user-stories/administrativo.md)
 * [Tutoriais](tutoriais/README.md)
