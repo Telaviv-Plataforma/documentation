@@ -19,7 +19,23 @@
 
 ### IMAGENS
 
+<div>
 
+<figure><img src="../../.gitbook/assets/iPhone 14 - 6.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/iPhone 14 - 7.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Primeiro acesso.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Pagamento (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### HISTÓRIA DO USUÁRIO
 

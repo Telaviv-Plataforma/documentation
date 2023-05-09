@@ -6,6 +6,8 @@
 * [User Stories](user-stories/README.md)
   * [Pacientes](user-stories/pacientes/README.md)
     * [Criar conta](user-stories/pacientes/criar-conta.md)
+    * [Acessar conta](user-stories/pacientes/acessar-conta.md)
+    * [Recuperar acesso](user-stories/pacientes/recuperar-acesso.md)
   * [Profissional](user-stories/profissional.md)
   * [Administrativo](user-stories/administrativo.md)
 * [Tutoriais](tutoriais/README.md)
