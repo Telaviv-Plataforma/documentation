@@ -2,7 +2,7 @@
 
 ### Como gerenciar as assinaturas no Backoffice?
 
-Para acessar as assinaturas é necessário que o usuário administrador esteja na Dashboard e clique em <mark style="color:blue;">`Assinaturas`</mark>
+Para acessar as assinaturas é necessário que o usuário administrador esteja na Dashboard, depois clique em <mark style="color:blue;">**`Assinaturas;`**</mark>
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
