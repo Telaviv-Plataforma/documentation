@@ -28,3 +28,4 @@
     * [Recuperar acesso](tutoriais/perfil-paciente/recuperar-acesso.md)
     * [Consulta](tutoriais/perfil-paciente/consulta.md)
     * [Cadastrar membro no plano de assinaturas](tutoriais/perfil-paciente/cadastrar-membro-no-plano-de-assinaturas.md)
+    * [Configurar assinatura](tutoriais/perfil-paciente/configurar-assinatura.md)
