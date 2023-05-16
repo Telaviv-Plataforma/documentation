@@ -35,20 +35,26 @@
 {% hint style="warning" %}
 **Fluxo principal:**
 
-1. Usuário clica em Confirmar consulta
-2. Usuário seleciona se o profissional compareceu
-   1. Se não compareceu
+1. Usuário clica em Reagendar
+2. Usuário clica em cancelar consulta
+3. Usuário seleciona \<motivo-do-cancelamento>
+   1. Caso o \<motivo-do-cancelamento> esteja selecionado
       1. Usuário pode prosseguir
-   2. Se compareceu
-      1. Sistema habilita as estrelas de avaliação
-3. Usuário avalia o profissional utilizando as estrelas
-4. Usuário clica em confirmar
-   1. Sistema registra avaliação do profissional
+   2. Caso o \<motivo-do-cancelamento> esteja vazio
+      1. Mensagem de alerta (1);
+      2. Botão `Confirmar cancelamento` fica desabilitado
+4. Usuário clica em Confirmar cancelamento
+   1. Sistema remove agendamento da agenda do paciente e do profissional
+      1. Sistema envia notificação para o profissional
 5. Fim do fluxo
 
 **Pós-condição:**
 
-1. Usuário avalia o profissional
+1. Usuário cancela a consulta
+
+**Mensagens**:
+
+1. mensagem (1): "Informe um motivo para o cancelamento!"
 {% endhint %}
 
 ### CENÁRIOS
