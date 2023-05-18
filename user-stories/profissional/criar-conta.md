@@ -22,7 +22,7 @@
   * CRM
 * Usuário confirmar os termos de uso
 * O usuário deve fazer o upload do:
-  * Curriculo
+  * Currículo
   * Foto de um documento
   * Comprovante do CRM
 
@@ -47,11 +47,11 @@
   1. Sistema exibe página de Sign In
 * Usuário clica em `Cadastrar`
   1. Sistema exibe a página de Registro de conta 1
-* Usuário insere \<parametros>
-  1. Caso o \<parametro> não seja válido
+* Usuário insere \<parâmetros>
+  1. Caso o \<parâmetro> não seja válido
      1. Mensagem de alerta (1);
      2. Botão `Continuar` fica desabilitado
-  2. Caso o \<parametro> seja válido
+  2. Caso o \<parâmetro> seja válido
      1. Usuário pode prosseguir
 * Usuário confirma os \<termos>
   1. Caso os \<termos> não sejam confirmados
@@ -70,9 +70,9 @@
 * Usuário clica em `Continuar`
   1. Sistema exibe terceira etapa do cadastro
 * Usuário faz upload de \<documentos>
-  * Caso o usuário faça um upload valido
+  * Caso o usuário faça um upload válido
     1. Usuário pode prosseguir
-  * Caso o usuário não faça um upload valido
+  * Caso o usuário não faça um upload válido
     1. Mensagem de alerta (4);
     2. Botão `Enviar e finalizar` fica desabilitado
 * Usuário clica em Enviar e finalizar
@@ -85,10 +85,10 @@
 
 **Mensagens**:
 
-1. mensagem (1): "Dados invalidos!"
+1. mensagem (1): "Dados inválidos!"
 2. mensagem (2): "Você deve aceitar os termos de uso!"
-3. mensagem (3): "Senha invalida!"
-4. mensagem (4): "Formato invalido!"
+3. mensagem (3): "Senha inválida!"
+4. mensagem (4): "Formato inválido!"
 {% endhint %}
 
 ### CENÁRIOS
