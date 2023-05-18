@@ -43,11 +43,11 @@
   1. Sistema exibe lista de membros
 * Usuário clica em `Novo membro`
   1. Sistema exibe a página de Registro de membro
-* Usuário insere \<parametros>
-  1. Caso o \<parametro> não seja válido
+* Usuário insere \<parâmetros>
+  1. Caso o \<parâmetro> não seja válido
      1. Mensagem de alerta (1);
      2. Botão `Novo membro` fica desabilitado
-  2. Caso o \<parametro> seja válido
+  2. Caso o \<parâmetro> seja válido
      1. Usuário pode prosseguir
 * Usuário clica em `Novo membro`
   1. Sistema salva novo membro
@@ -59,7 +59,7 @@
 
 **Mensagens**:
 
-1. mensagem (1): "Dados invalidos!"
+1. mensagem (1): "Dados inválidos!"
 {% endhint %}
 
 ### CENÁRIOS
