@@ -19,7 +19,7 @@
     * [Acessar conta](user-stories/profissional/acessar-conta.md)
     * [Recuperar acesso](user-stories/profissional/recuperar-acesso.md)
     * [Meus horários](user-stories/profissional/meus-horarios.md)
-    * [Prontuario](user-stories/profissional/prontuario.md)
+    * [Prontuário](user-stories/profissional/prontuario.md)
     * [Cancelar Consulta](user-stories/profissional/cancelar-consulta.md)
   * [Administrativo](user-stories/administrativo/README.md)
     * [Acessar conta](user-stories/administrativo/acessar-conta.md)
