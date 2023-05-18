@@ -13,7 +13,7 @@
     * [Avaliar Consulta](user-stories/pacientes/avaliar-consulta.md)
     * [Cancelar Consulta](user-stories/pacientes/cancelar-consulta.md)
     * [Novo membro](user-stories/pacientes/novo-membro.md)
-    * [Meu prontuario](user-stories/pacientes/meu-prontuario.md)
+    * [Meu prontuário](user-stories/pacientes/meu-prontuario.md)
   * [Profissional](user-stories/profissional/README.md)
     * [Criar conta](user-stories/profissional/criar-conta.md)
     * [Acessar conta](user-stories/profissional/acessar-conta.md)

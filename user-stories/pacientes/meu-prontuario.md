@@ -1,10 +1,10 @@
-# Meu prontuario
+# Meu prontuário
 
 ### PROPOSTA DE VALOR
 
 | Como um | Eu quero                           | Então                    |
 | ------- | ---------------------------------- | ------------------------ |
-| Usuário | Alterar minhas informações médicas | exibir no meu prontuario |
+| Usuário | Alterar minhas informações médicas | exibir no meu prontuário |
 
 ### CRITÉRIOS DE ACEITAÇÃO
 
@@ -13,7 +13,7 @@
   * Alergias
   * Doenças no coração
   * Doenças
-  * Vicios
+  * Vícios
   * Gestante
   * Outros
 
@@ -41,12 +41,12 @@
 * Usuário acessa a área do perfil
   1. Sistema exibe lista de membros
 * Usuário clica em um dos membros
-  1. Sistema exibe a página de prontuario
-* Usuário insere \<parametros>
-  1. Caso o \<parametro> não seja válido
+  1. Sistema exibe a página de prontuário
+* Usuário insere \<parâmetros>
+  1. Caso o \<parâmetro> não seja válido
      1. Mensagem de alerta (1);
      2. Botão `Novo membro` fica desabilitado
-  2. Caso o \<parametro> seja válido
+  2. Caso o \<parâmetro> seja válido
      1. Usuário pode prosseguir
 * Fim do fluxo.
 
@@ -56,7 +56,7 @@
 
 **Mensagens**:
 
-1. mensagem (1): "Dados invalidos!"
+1. mensagem (1): "Dados inválidos!"
 {% endhint %}
 
 ### CENÁRIOS
