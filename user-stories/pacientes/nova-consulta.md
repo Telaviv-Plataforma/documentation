@@ -9,8 +9,8 @@
 ### CRITÉRIOS DE ACEITAÇÃO
 
 * Usuário deve selecionar um tipo de profissional
-* Usuário deve selecionar um horario para o agendamento
-* Sistema deve mostrar todos os profissionais disponiveis para a o horario e area selecionados
+* Usuário deve selecionar um horário para o agendamento
+* Sistema deve mostrar todos os profissionais disponíveis para a o horário e área selecionados
 
 ### IMAGENS
 
@@ -51,7 +51,7 @@
       1. Mensagem de alerta (1);
       2. Botão `Agendar` fica desabilitado
 4. Usuário clica em Agendar
-   1. Sistema exibe lista de profissionais disponiveis
+   1. Sistema exibe lista de profissionais disponíveis
 5. Usuário seleciona um dos profissionais
    1. Sistema exibe resumo do agendamento
       1. Caso o usuário clique em Confirmar consulta
@@ -66,7 +66,7 @@
 
 **Mensagens**:
 
-1. mensagem (1): "Informe uma data valida!"
+1. mensagem (1): "Informe uma data válida!"
 {% endhint %}
 
 ### CENÁRIOS
