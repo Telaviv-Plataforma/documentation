@@ -2,9 +2,9 @@
 
 ### PROPOSTA DE VALOR
 
-| Como um      | Eu quero                      | Então            |
-| ------------ | ----------------------------- | ---------------- |
-| Profissional | recuperar acesso da aplicação | Recuperar acesso |
+| Como um       | Eu quero                      | Então            |
+| ------------- | ----------------------------- | ---------------- |
+| Administrador | recuperar acesso da aplicação | Recuperar acesso |
 
 ### CRITÉRIOS DE ACEITAÇÃO
 
@@ -14,11 +14,11 @@
 
 ### IMAGENS
 
-<figure><img src="../../.gitbook/assets/Recuperar acesso - 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recuperar acesso - 1 (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Recuperar acesso - 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recuperar acesso - 2 (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Recuperar acesso - 3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Recuperar acesso - 3 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### HISTÓRIA DO USUÁRIO
 
