@@ -40,26 +40,26 @@
 2. Usuário clica no ícone de configuração
    1. Sistema exibe um modal "Meus horários"
       1. Caso o usuário não tenha definido nenhum horário
-         1. Sistema exibe horario padrão
+         1. Sistema exibe horário padrão
 3. Usuário seleciona os dias da semana
    1. Caso o usuário tenha selecionado ao menos 1 dia de trabalho
       1. Usuário pode prosseguir
    2. Caso o usuário não tenha selecionado nenhum dia de trabalho
       1. Botão "Salvar" fica desabilitado
       2. Mensagem de alerta (1);
-4. Usuário seleciona os \<horarios>
-   1. Caso o usuário tenha selecionado um \<horario> valido
+4. Usuário seleciona os \<horários>
+   1. Caso o usuário tenha selecionado um \<horário> válido
       1. Usuário pode prosseguir
-   2. Caso o usuário tenha selecionado um \<horario> invalido
+   2. Caso o usuário tenha selecionado um \<horário> inválido
       1. Botão "Salvar" fica desabilitado
       2. Mensagem de alerta (2);
 5. Usuário clica em Salvar
-   1. Sistema define novos horarios de trabalho
+   1. Sistema define novos horários de trabalho
 6. Fim do fluxo
 
 **Pós-condição:**
 
-1. Usuário define horario de trabalho
+1. Usuário define horário de trabalho
 
 **Mensagens**:
 
