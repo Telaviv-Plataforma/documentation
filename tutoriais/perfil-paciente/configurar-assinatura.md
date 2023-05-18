@@ -10,7 +10,7 @@ Para fazer a configuração de assinatura do plano é necessário que o usuário
 
 Após clicar, aparecerá a seguinte tela: &#x20;
 
-<figure><img src="../../.gitbook/assets/Captura de Tela 2023-05-11 às 10.51.02.png" alt="" width="279"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de Tela 2023-05-11 às 10.51.02.png" alt="" width="279"><figcaption></figcaption></figure>
 
 Para gerenciar o tipo de plano, clique no ícone do lápis ao lado do nome do plano;
 

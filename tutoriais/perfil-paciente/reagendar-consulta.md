@@ -10,7 +10,7 @@ Para reagendar a consulta é necessário que o usuário esteja logado em sua con
 
 Após clicar, aparecerá a seguinte tela:
 
-<figure><img src="../../.gitbook/assets/Captura de Tela 2023-05-16 às 16.38.33.png" alt="" width="232"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de Tela 2023-05-16 às 16.38.33.png" alt="" width="232"><figcaption></figcaption></figure>
 
 * Você precisa selecionar qual a área específica, colocar o profissional, a data e o horário para poder fazer o reagendamento .&#x20;
 * Depois clique em **`Reagendar;`**

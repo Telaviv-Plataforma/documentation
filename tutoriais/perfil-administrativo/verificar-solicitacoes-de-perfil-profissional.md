@@ -5,7 +5,7 @@
 * Para aceitar ou analisar as solicitações de perfil profissional é necessário que o usuário administrativo esteja da Dashboard;
 * Depois clique em <mark style="color:blue;">`Solicitações`</mark> na parte esquerda da tela;
 
-<figure><img src="../../.gitbook/assets/Captura de Tela 2023-05-11 às 15.23.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de Tela 2023-05-11 às 15.23.34.png" alt=""><figcaption></figcaption></figure>
 
 Após clicar a tela abixo aparecerá:
 

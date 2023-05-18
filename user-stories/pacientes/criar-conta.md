@@ -54,7 +54,7 @@
   1. Caso o \<parametro> não seja válido
      1. Mensagem de alerta (1);
      2. Botão `Continuar` fica desabilitado
-  2. Caso o \<parametro> seja válido
+  2. Caso o \<parâmetro> seja válido
      1. Usuário pode prosseguir
 * Usuário confirma os \<termos>
   1. Caso os \<termos> não sejam confirmados
@@ -100,11 +100,11 @@
 
 **Mensagens**:
 
-1. mensagem (1): "Dados invalidos!"
+1. mensagem (1): "Dados inválidos!"
 2. mensagem (2): "Você deve aceitar os termos de uso!"
-3. mensagem (3): "Senha invalida!"
+3. mensagem (3): "Senha inválida!"
 4. mensagem (4): "Selecione uma das assinaturas!"
-5. mensagem (5): "Dados de pagamento invalidos!"
+5. mensagem (5): "Dados de pagamento inválidos!"
 6. mensagem (6): "Pagamento não aprovado!"
 {% endhint %}
 
