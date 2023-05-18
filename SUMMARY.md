@@ -18,7 +18,7 @@
     * [Criar conta](user-stories/profissional/criar-conta.md)
     * [Acessar conta](user-stories/profissional/acessar-conta.md)
     * [Recuperar acesso](user-stories/profissional/recuperar-acesso.md)
-    * [Meus horarios](user-stories/profissional/meus-horarios.md)
+    * [Meus horários](user-stories/profissional/meus-horarios.md)
     * [Prontuario](user-stories/profissional/prontuario.md)
     * [Cancelar Consulta](user-stories/profissional/cancelar-consulta.md)
   * [Administrativo](user-stories/administrativo/README.md)

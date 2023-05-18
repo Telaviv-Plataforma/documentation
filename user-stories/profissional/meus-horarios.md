@@ -1,19 +1,19 @@
-# Meus horarios
+# Meus horários
 
 ### PROPOSTA DE VALOR
 
 | Como um      | Eu quero                        | Então                 |
 | ------------ | ------------------------------- | --------------------- |
-| Profissional | Definir meu horario de trabalho | Definir meus horarios |
+| Profissional | Definir meu horário de trabalho | Definir meus horários |
 
 ### CRITÉRIOS DE ACEITAÇÃO
 
-* Sistema deve definir horario padrão:
+* Sistema deve definir horário padrão:
   * Entrada: 08:00
   * Descanso: 12:00
   * Volta do descanso: 13:00
   * Saida: 17:00
-* Usuário pode definir o proprio horario
+* Usuário pode definir o próprio horário
 
 ### IMAGENS
 
@@ -37,9 +37,9 @@
 **Fluxo principal:**
 
 1. Usuário acessa a área de agenda
-2. Usuário clica no icone de configuração
-   1. Sistema exibe um modal "Meus horarios"
-      1. Caso o usuário não tenha definido nenhum horario
+2. Usuário clica no ícone de configuração
+   1. Sistema exibe um modal "Meus horários"
+      1. Caso o usuário não tenha definido nenhum horário
          1. Sistema exibe horario padrão
 3. Usuário seleciona os dias da semana
    1. Caso o usuário tenha selecionado ao menos 1 dia de trabalho
