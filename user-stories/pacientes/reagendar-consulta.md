@@ -8,7 +8,7 @@
 
 ### CRITÉRIOS DE ACEITAÇÃO
 
-* Usuário deve selecionar um horario para o reagendamento
+* Usuário deve selecionar um horário para o reagendamento
 
 ### IMAGENS
 
@@ -43,7 +43,7 @@
 4. Usuário clica em Agendar
    1. Sistema salva consulta na agenda do paciente e do profissional
       1. Caso a agenda do profissional esteja ocupada,
-         1. O sistema agenda para outro profissional aleatorio disponivel
+         1. O sistema agenda para outro profissional aleatório disponível
 5. Fim do fluxo
 
 **Pós-condição:**
@@ -52,7 +52,7 @@
 
 **Mensagens**:
 
-1. mensagem (1): "Informe uma data valida!"
+1. mensagem (1): "Informe uma data válida!"
 {% endhint %}
 
 ### CENÁRIOS
