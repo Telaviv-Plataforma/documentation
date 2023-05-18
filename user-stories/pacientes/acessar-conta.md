@@ -27,7 +27,7 @@
 1. Usuário acessa a aplicação
    1. Sistema exibe página de Sign In
 2. Usuário insere o \<e-mail>
-   1. Caso o \<email> seja válido
+   1. Caso o \<e-mail> seja válido
       1. Usuário pode prosseguir
    2. Caso o \<e-mail> seja inválido
       1. Mensagem de alerta (1);
@@ -44,7 +44,7 @@
          1. Usuário informa \<código> de autenticação
             1. Caso o \<código> seja valido
                1. Usuário pode prosseguir
-            2. Caso o \<código> seja invalido
+            2. Caso o \<código> seja inválido
                1. Mensagem de alerta (3);
                2. Botão `Continuar` fica desabilitado
          2. Usuário clica em `Continuar`
