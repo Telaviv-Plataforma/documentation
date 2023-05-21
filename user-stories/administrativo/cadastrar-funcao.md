@@ -51,7 +51,7 @@
 
 **Mensagens**:
 
-* Mensagem (1): "Campo invalido!"
+* Mensagem (1): "Campo inválido!"
 {% endhint %}
 
 ### CENÁRIOS
