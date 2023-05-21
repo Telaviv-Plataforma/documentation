@@ -34,10 +34,10 @@
 
 1. Usuário acessa a lista de assinaturas
    1. Sistema exibe lista de assinaturas
-2. Usuário clica no icone de editar
-   1. Caso o \<parametro> seja válido
+2. Usuário clica no ícone de editar
+   1. Caso o \<parâmetro> seja válido
       1. Usuário pode prosseguir
-   2. Caso o \<parametro> seja inválido
+   2. Caso o \<parâmetro> seja inválido
       1. Mensagem de alerta (1);
       2. Botão `Salvar` fica desabilitado
 3. Usuário clica em Salvar
@@ -50,7 +50,7 @@
 
 **Mensagens**:
 
-* Mensagem (1): "Campo invalido!"
+* Mensagem (1): "Campo inválido!"
 {% endhint %}
 
 ### CENÁRIOS
