@@ -49,3 +49,4 @@
     * [Reagendar Consulta](tutoriais/perfil-paciente/reagendar-consulta.md)
     * [Configurar assinatura](tutoriais/perfil-paciente/configurar-assinatura.md)
     * [Cadastrar membro no plano de assinaturas](tutoriais/perfil-paciente/cadastrar-membro-no-plano-de-assinaturas.md)
+    * [Meu prontuário](tutoriais/perfil-paciente/meu-prontuario.md)

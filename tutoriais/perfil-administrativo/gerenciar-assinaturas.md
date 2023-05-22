@@ -4,7 +4,7 @@
 
 Para acessar as assinaturas é necessário que o usuário administrador esteja na Dashboard, depois clique em <mark style="color:blue;">**`Assinaturas;`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após clicar aparecerá a seguinte tela:
 
