@@ -15,3 +15,21 @@ Nesta tela é possível editar os usuários que participam da plataforma.
 Outra possibilidade é editar as funções que os usuários têm;
 
 <figure><img src="../../.gitbook/assets/Captura de Tela 2023-04-24 às 19.15.21.png" alt=""><figcaption></figcaption></figure>
+
+* Clicando em: Nova função - no canto superior direito -  aparecerá a seguinte tela:
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="327"><figcaption></figcaption></figure>
+
+* O administrador pode cadastrar uma nova função para o usuário.
+
+Outra maneira de gerenciamento é editar funções existentes;
+
+* Após clicar no ícone de engrenagem ao lado do usuário;
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+aparecerá a seguinte tela:
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+* O administrador pode editar as funções já existentes para o usuário que deve ser modificado.
