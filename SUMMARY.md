@@ -35,6 +35,8 @@
     * [Criar conta - Médico](tutoriais/perfil-profissional/criar-conta-medico.md)
     * [Recuperar conta - Médico](tutoriais/perfil-profissional/recuperar-conta-medico.md)
     * [Agenda - Médico](tutoriais/perfil-profissional/agenda-medico.md)
+    * [Prontuário - Médico](tutoriais/perfil-profissional/prontuario-medico.md)
+    * [Acesso aos Pacientes  - Médico](tutoriais/perfil-profissional/acesso-aos-pacientes-medico.md)
     * [Cancelar consulta - Médico](tutoriais/perfil-profissional/cancelar-consulta-medico.md)
   * [Perfil - Administrativo](tutoriais/perfil-administrativo/README.md)
     * [Primeiro acesso - Backoffice](tutoriais/perfil-administrativo/primeiro-acesso-backoffice.md)
