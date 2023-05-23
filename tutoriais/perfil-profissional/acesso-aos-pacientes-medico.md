@@ -4,7 +4,7 @@
 
 Para acessar a aba dos paciente você deve estar logado e na dashboard clicar no ícone que representa os pacientes;
 
-<figure><img src="../../.gitbook/assets/Captura de Tela 2023-05-23 às 14.46.49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de Tela 2023-05-23 às 14.46.49 (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar, você será redirecionado para a seguinte tela:
 
