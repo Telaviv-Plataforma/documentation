@@ -16,7 +16,7 @@ Na agenda é possível ver as próximas consultas com data, hora e nome do pacie
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Para acessar os prontuários é necessário estar logado, na dashboiard clique no ícone que representa os prontuários a esquerda;
+Para acessar os prontuários é necessário estar logado, na dashboard clique no ícone que representa os prontuários a esquerda;
 
 <figure><img src="../../.gitbook/assets/Captura de Tela 2023-04-19 às 12.45.36 (2).png" alt=""><figcaption></figcaption></figure>
 
