@@ -8,7 +8,8 @@ Para acessar o espaço do prontuário é necessário que o usuário esteja logad
 
 * Clique no ícone prontuário no espaço abaixo ao lado de perfil;
 * a seguinte tela aparecerá:
+*
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="195"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Captura de Tela 2023-05-24 às 14.11.15.png" alt="" width="235"><figcaption></figcaption></figure>
 
 Caso você queira adicionar alguma das informações acima é so clicar na específica e preencher os dados.
