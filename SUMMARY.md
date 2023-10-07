@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🩺 Bem-vindo!](README.md)
+* [🩺 Bem-vindo TeleViv!](README.md)
 * [Tutoriais](tutoriais/README.md)
   * [Perfil - Profissional](tutoriais/perfil-profissional/README.md)
     * [Criar conta - Médico](tutoriais/perfil-profissional/criar-conta-medico.md)
