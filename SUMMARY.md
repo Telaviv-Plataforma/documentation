@@ -1,28 +1,6 @@
 # Table of contents
 
 * [🩺 Bem-vindo TeleViv!](README.md)
-* [Tutoriais](tutoriais/README.md)
-  * [Perfil - Profissional](tutoriais/perfil-profissional/README.md)
-    * [Criar conta - Médico](tutoriais/perfil-profissional/criar-conta-medico.md)
-    * [Recuperar conta - Médico](tutoriais/perfil-profissional/recuperar-conta-medico.md)
-    * [Agenda - Médico](tutoriais/perfil-profissional/agenda-medico.md)
-    * [Prontuário - Médico](tutoriais/perfil-profissional/prontuario-medico.md)
-    * [Acesso aos Pacientes - Médico](tutoriais/perfil-profissional/acesso-aos-pacientes-medico.md)
-    * [Cancelar consulta - Médico](tutoriais/perfil-profissional/cancelar-consulta-medico.md)
-  * [Perfil - Administrativo](tutoriais/perfil-administrativo/README.md)
-    * [Primeiro acesso - Backoffice](tutoriais/perfil-administrativo/primeiro-acesso-backoffice.md)
-    * [Recuperar acesso](tutoriais/perfil-administrativo/recuperar-acesso.md)
-    * [Verificar solicitações de perfil profissional](tutoriais/perfil-administrativo/verificar-solicitacoes-de-perfil-profissional.md)
-    * [Gerenciar usuários](tutoriais/perfil-administrativo/gerenciar-usuarios.md)
-    * [Gerenciar assinaturas](tutoriais/perfil-administrativo/gerenciar-assinaturas.md)
-  * [Perfil - Paciente](tutoriais/perfil-paciente/README.md)
-    * [Criar conta](tutoriais/perfil-paciente/criar-conta.md)
-    * [Recuperar acesso](tutoriais/perfil-paciente/recuperar-acesso.md)
-    * [Consulta](tutoriais/perfil-paciente/consulta.md)
-    * [Reagendar Consulta](tutoriais/perfil-paciente/reagendar-consulta.md)
-    * [Configurar assinatura](tutoriais/perfil-paciente/configurar-assinatura.md)
-    * [Cadastrar membro no plano de assinaturas](tutoriais/perfil-paciente/cadastrar-membro-no-plano-de-assinaturas.md)
-    * [Meu prontuário](tutoriais/perfil-paciente/meu-prontuario.md)
 
 ## Arquitetura de Negócio
 
@@ -55,3 +33,32 @@
     * [Editar usuário](arquitetura-de-negocio/user-stories/administrativo/editar-usuario.md)
     * [Cadastrar função](arquitetura-de-negocio/user-stories/administrativo/cadastrar-funcao.md)
     * [Editar função](arquitetura-de-negocio/user-stories/administrativo/editar-funcao.md)
+
+## Tutoriais
+
+* [Sobre tutoriais](tutoriais/tutoriais/README.md)
+  * [Perfil - Profissional](tutoriais/tutoriais/perfil-profissional/README.md)
+    * [Criar conta - Médico](tutoriais/tutoriais/perfil-profissional/criar-conta-medico.md)
+    * [Recuperar conta - Médico](tutoriais/tutoriais/perfil-profissional/recuperar-conta-medico.md)
+    * [Agenda - Médico](tutoriais/tutoriais/perfil-profissional/agenda-medico.md)
+    * [Prontuário - Médico](tutoriais/tutoriais/perfil-profissional/prontuario-medico.md)
+    * [Acesso aos Pacientes - Médico](tutoriais/tutoriais/perfil-profissional/acesso-aos-pacientes-medico.md)
+    * [Cancelar consulta - Médico](tutoriais/tutoriais/perfil-profissional/cancelar-consulta-medico.md)
+  * [Perfil - Administrativo](tutoriais/tutoriais/perfil-administrativo/README.md)
+    * [Primeiro acesso - Backoffice](tutoriais/tutoriais/perfil-administrativo/primeiro-acesso-backoffice.md)
+    * [Recuperar acesso](tutoriais/tutoriais/perfil-administrativo/recuperar-acesso.md)
+    * [Verificar solicitações de perfil profissional](tutoriais/tutoriais/perfil-administrativo/verificar-solicitacoes-de-perfil-profissional.md)
+    * [Gerenciar usuários](tutoriais/tutoriais/perfil-administrativo/gerenciar-usuarios.md)
+    * [Gerenciar assinaturas](tutoriais/tutoriais/perfil-administrativo/gerenciar-assinaturas.md)
+  * [Perfil - Paciente](tutoriais/tutoriais/perfil-paciente/README.md)
+    * [Criar conta](tutoriais/tutoriais/perfil-paciente/criar-conta.md)
+    * [Recuperar acesso](tutoriais/tutoriais/perfil-paciente/recuperar-acesso.md)
+    * [Consulta](tutoriais/tutoriais/perfil-paciente/consulta.md)
+    * [Reagendar Consulta](tutoriais/tutoriais/perfil-paciente/reagendar-consulta.md)
+    * [Configurar assinatura](tutoriais/tutoriais/perfil-paciente/configurar-assinatura.md)
+    * [Cadastrar membro no plano de assinaturas](tutoriais/tutoriais/perfil-paciente/cadastrar-membro-no-plano-de-assinaturas.md)
+    * [Meu prontuário](tutoriais/tutoriais/perfil-paciente/meu-prontuario.md)
+
+## Configurações
+
+* [Page 1](configuracoes/page-1.md)
