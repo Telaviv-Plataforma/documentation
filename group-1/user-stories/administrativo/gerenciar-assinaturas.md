@@ -15,11 +15,11 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Assinaturas.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Assinaturas.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Gerenciar assinatura - Modal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Gerenciar assinatura - Modal.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -15,11 +15,11 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Usuários (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Usuários (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Editar função - Modal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Editar função - Modal.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

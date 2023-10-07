@@ -13,9 +13,9 @@
 
 ### IMAGENS
 
-<figure><img src="../../.gitbook/assets/Solicitações.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Solicitações.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Solicitações (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Solicitações (1).png" alt=""><figcaption></figcaption></figure>
 
 ### HISTÓRIA DO USUÁRIO
 

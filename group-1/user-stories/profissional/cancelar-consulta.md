@@ -2,9 +2,9 @@
 
 ### PROPOSTA DE VALOR
 
-| Como um  | Eu quero                | Então             |
-| -------- | ----------------------- | ----------------- |
-| Paciente | Cancelar minha consulta | Remover da agenda |
+| Como um      | Eu quero                | Então             |
+| ------------ | ----------------------- | ----------------- |
+| Profissional | Cancelar minha consulta | Remover da agenda |
 
 ### CRITÉRIOS DE ACEITAÇÃO
 
@@ -14,15 +14,11 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Minha agenda.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agenda (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Reagendar consulta.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/Cancelar consulta - Modal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cancelar consulta - Modal (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

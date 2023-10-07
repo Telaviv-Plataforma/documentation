@@ -22,11 +22,11 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Meu perfil.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Meu perfil.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Cadastrar membro.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cadastrar membro.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -14,11 +14,11 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Minha agenda.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Minha agenda.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Confirmar consulta.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Confirmar consulta.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

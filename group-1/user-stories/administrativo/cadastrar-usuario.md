@@ -1,25 +1,25 @@
-# Cadastrar função
+# Cadastrar usuário
 
 ### PROPOSTA DE VALOR
 
-| Como um               | Eu quero              | Então     |
-| --------------------- | --------------------- | --------- |
-| Usuário administrador | inserir novas funções | cadastrar |
+| Como um               | Eu quero               | Então     |
+| --------------------- | ---------------------- | --------- |
+| Usuário administrador | inserir novos usuários | cadastrar |
 
 ### CRITÉRIOS DE ACEITAÇÃO
 
 * Estar autenticado;
-* Ter permissão para cadastrar funções.
+* Ter permissão para cadastrar os usuários.
 
 ### IMAGENS
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Usuários (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Usuários.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Nova função - Modal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Novo usuário - Modal.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -32,9 +32,9 @@
 {% hint style="warning" %}
 **Fluxo principal:**
 
-1. Usuário acessa a lista de funções
-   1. Sistema exibe lista de funções
-2. Usuário clica em "Cadastrar função"
+1. Usuário acessa a lista de usuários administradores
+   1. Sistema exibe lista usuários
+2. Usuário clica em "Cadastrar usuário"
    1. Sistema exibe modal de registro
 3. Usuário insere novos \<dados>
    1. Se o usuário clica em "Salvar"
@@ -47,7 +47,7 @@
 
 **Pós-condição:**
 
-1. Registrar função
+1. Registrar usuário admin
 
 **Mensagens**:
 

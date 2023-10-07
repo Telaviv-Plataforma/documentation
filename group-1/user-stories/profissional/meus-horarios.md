@@ -19,11 +19,11 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Agenda.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agenda.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Meus horários - Modal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Meus horários - Modal.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

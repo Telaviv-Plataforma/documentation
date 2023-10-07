@@ -21,11 +21,11 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Meu perfil.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Meu perfil.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Prontuário.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Prontuário.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

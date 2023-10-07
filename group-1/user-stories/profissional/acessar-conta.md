@@ -15,9 +15,9 @@
 
 ### IMAGENS
 
-<figure><img src="../../.gitbook/assets/Desktop - 7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Desktop - 7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Autenticação.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Autenticação.png" alt=""><figcaption></figcaption></figure>
 
 ### HISTÓRIA DO USUÁRIO
 

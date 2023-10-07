@@ -16,19 +16,19 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Agendar (selecionar profissional).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agendar (selecionar profissional).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Selecione um horario.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Selecione um horario.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Selecione um profissional.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Selecione um profissional.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Selecione um profissional (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Selecione um profissional (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
