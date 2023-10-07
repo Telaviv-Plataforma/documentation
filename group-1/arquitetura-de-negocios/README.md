@@ -1,2 +1,0 @@
-# Arquitetura de Negócios
-
